@@ -60,7 +60,7 @@ content:
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/RovleZMex/ML-and-AI-Projects
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -68,7 +68,18 @@ content:
           Trabajos de aprendizaje supervisado y no supervisado.
         description: | # this will include new lines to allow paragraphs
           He hecho estos proyectos como parte de mis capacitaciones en <mark>ML</mark>. Estos poryectos me sirvieron como herramienta para aterrizar los conceptos que vimos en los cursos. 
-  
+      - layout: top-middle
+        title: StockMaster
+        link: https://github.com/RovleZMex/StockMaster
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/RovleZMex/StockMaster
+        quote: >
+          Proyecto de gestion de inventario.
+        description: |
+          Este proyecto se realizo en equipo para presentarlo como propuesta solucion a una problematica del Departamento de Matematicas. StockMaster cuenta con manejo de usuarios, roles, historial de movimientos, herramientas de analisis, entre otros.
+          
   - title: Educacion # Title for the section
     layout: list # Type of content section (list/text)
     content:
