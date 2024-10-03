@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   Tengo habilidades fuertes en: <mark>Python</mark> and <mark>ML/AI</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -69,7 +69,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           He hecho estos proyectos como parte de mis capacitaciones en <mark>ML</mark>. Estos poryectos me sirvieron como herramienta para aterrizar los conceptos que vimos en los cursos. 
   
-  - title: Education # Title for the section
+  - title: Educacion # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
