@@ -42,7 +42,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Acerca de mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Gabriel Santiago Robles Robles, soy estudiante de la licenciatura en Ciencias de la Computacion, apasionado por la creacion de software que genere un impacto, la solucion de problemas y la creacion de soluciones creativas.
